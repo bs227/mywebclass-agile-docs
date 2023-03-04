@@ -8,7 +8,9 @@ The goal of this initiative is to shift the development process of MyWebClass.or
 model to a "pull" model. This means that rather than pushing features and updates to the site 
 based on assumptions, the development process will be driven by user feedback and needs. 
 The initiative will also focus on ensuring compliance with GDPR regulations and implementing
-Google Analytics for measuring user behavior on the site.
+Google Analytics for measuring user behavior on the site and develop creative incentives for 
+user feedback and employ various techniques to ensure a representative sample of users are providing 
+input.
 
 Goals:
 
