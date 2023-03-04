@@ -3,7 +3,7 @@ Task Title: Establish regular communication channels with users
 User Story: 
 
 As a project manager, I want to establish regular channels for communication with users so that we can 
-obtain feedback and ensure our development efforts are aligned with user needs.
+obtain feedback and ensure our development efforts are aligned with user and customer.
 
 Description: 
 
