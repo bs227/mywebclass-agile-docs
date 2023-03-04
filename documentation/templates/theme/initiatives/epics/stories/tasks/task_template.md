@@ -1,15 +1,63 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Establish regular communication channels with users
 
-User Story: [Reference the user story that this task supports]
+User Story: 
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+As a project manager, I want to establish regular channels for communication with users so that we can 
+obtain feedback and ensure our development efforts are aligned with user needs.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Description: 
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+1. Research and determine the most effective communication channels for engaging with users.
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+2. Develop a plan for implementing these channels, including how often to communicate with users and 
+what type of feedback to collect. 
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+3. Create a schedule for engaging with users and stakeholders and document the communication process.
 
-Notes: [Include]
+Effort Estimate: 8 hours
+
+Assigned To: Project Manager
+
+Priority: High
+
+Status: Not started
+
+Notes:
+
+1. Research and determine effective communication channels for engaging with users, considering target audience and preferences.
+
+2. Develop a plan for implementing these channels, including how often to communicate, what feedback to collect, and how to incentivize users.
+
+3. Create a schedule for engaging with users and stakeholders, and document the communication process for future reference and analysis.
+
+
+
+Task Title:Ensure development initiatives are in harmony with user requirements
+
+User Story:
+
+As a project manager, I want to confirm that development initiatives are in harmony with user 
+requirements so that we can minimize or eliminate the amount of "push" in the project.
+
+Description: 
+
+Review user feedback and feature requests to ensure that they align with our overall product vision 
+and strategy. Work with the development team to prioritize and plan development efforts based on user 
+needs. Continuously monitor user feedback and adjust development priorities as needed.
+
+Effort Estimate: 10 hours
+
+Assigned To: Project Manager
+
+Priority: High
+
+Status: Not started
+
+Notes:
+
+A comprehensive plan for collecting and analyzing feedback and feature requests is crucial. 
+This plan should consider factors like how often feedback will be collected, what types of feedback 
+will be collected, and who will be involved in the process. This will ensure that the feedback 
+collected is relevant and actionable.
+
+
