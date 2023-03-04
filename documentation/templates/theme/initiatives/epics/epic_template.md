@@ -6,7 +6,10 @@ Description:
 
 This epic involves the implementation of a user feedback system to collect and analyze feedback 
 from MyWebClass users. The system will include surveys, user testing, and tracking tools to gather
-and analyze data on user behavior on the site.
+and analyze data on user behavior on the site.Team can incorporate user research and qualitative 
+feedback into the development process. This can be done through surveys, user testing, and other 
+qualitative methods. The AGILE methodology can be used in conjunction with user research and 
+testing to ensure that changes are based on user needs and preferences.
 
 Goals:
 
